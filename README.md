@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>This World Is Yours</h1>
-    <style
+    <title>This World Is Yours</title>
+    </head>
+    <style>
      
      body {background-color:grey}
+
+<body>
+  <img src=
