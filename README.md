@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>sunset</title>
+ 
+ <head>
+    <title>sunset/>
+    </title>
     </head>
     <style>
      
@@ -9,5 +11,4 @@
 
 <body>
   <img src="42644404_166837464227456_6828422827209654272_n.jpg">
-  <img src="
-  
+  <img src="my zine.pdf">  
