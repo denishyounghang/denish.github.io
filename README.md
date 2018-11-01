@@ -12,4 +12,4 @@
 <body>
   <img src="42644404_166837464227456_6828422827209654272_n.jpg">
   <img src="my zine.pdf">  
-  <img src="
+  <img src="index.html">
