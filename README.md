@@ -7,9 +7,11 @@
  
  <style>
  
- body {background-color:grey}
+ <body> {background-color:grey}
 </style>
+</body>
 
 <body>
-<p><a href="my zine.pdf">its my zine</a></p>
+ <p><a href="my zine.pdf">its my zine</a></p>
+</body>
 </html>
