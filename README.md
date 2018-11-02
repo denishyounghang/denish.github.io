@@ -12,6 +12,6 @@
      body {background-color:grey}
 
 <body>
-  
   <p><a href="my zine.pdf"</a></p>
   
+</html>
