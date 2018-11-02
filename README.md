@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
  <head>
- <img src="42644404_166837464227456_6828422827209654272_n.jpg"> 
+ <div>
+  <img src="42644404_166837464227456_6828422827209654272_n.jpg"> 
+  </div>
   </head>  
     <title>sunset/>
     </title>
