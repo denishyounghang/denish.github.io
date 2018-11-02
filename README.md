@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<img src="IMG_1022.JPG."> 
+<img src="IMG_1022.JPG"> 
  </head>  
  <title>Lifes a beach and Im just playing in the sand/>
  </title>
