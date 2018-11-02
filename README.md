@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <img src="IMG_1018[1].PNG.jpg"> 
+  <img src="IMG_1018[1].PNG."> 
   
    </head>  
-    <title>sunset/>
+    <title>Lifes a beach and Im just playing in the sand/>
     </title>
        
     
