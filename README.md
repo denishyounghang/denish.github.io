@@ -11,5 +11,5 @@
 </style>
 
 <body>
-<p><a href="my zine.pdf"</a></p>
+<p><a href="my zine.pdf">its my zine</a></p>
 </html>
