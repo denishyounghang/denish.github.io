@@ -6,12 +6,11 @@
  <head/>
  
  <style>
- 
+ style="color:#2de4e4;"
  <body> {background-color:grey}
 </style>
 </body>
 
 <body>
- <p><a href="my zine.pdf">its my zine</a></p>
-</body>
+ <p><a href="my zine.pdf">its my zine</a></p></body>
 </html>
