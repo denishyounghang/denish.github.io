@@ -12,5 +12,6 @@
 <body>
  <p><a href="my zine.pdf">link to my zine</a></p>
  <p><a href="video-1541552984.3gp">link to my video 1</a></p>
- <p>https://youtu.be/MFD6rgeeotc</p></body>
+ <p>https://youtu.be/MFD6rgeeotc</p>
+</body>
  </html>
