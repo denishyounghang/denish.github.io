@@ -7,7 +7,7 @@
  
  <style>
  <body bgcolor=“#1BEBDB"></style>
-</body>
+
 
 <body>
  <p><a href="my zine.pdf">link to my zine</a></p>
