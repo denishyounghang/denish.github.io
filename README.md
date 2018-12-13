@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<img src="IMG_1022.JPG"> 
+<img src="45033140_260927717954273_5617926070524182528_n.jpg"> 
  <title>Lifes a beach and Im just playing in the sand/>
  </title>
  </head>
